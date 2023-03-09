@@ -1,0 +1,26 @@
+{
+    "listaproductos":[
+        {
+            "titulo":"Pala" ,
+            "precio":"$3500" ,
+            "texto":"Para limpiar la casa" ,
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoxUYOgxjL3LmwYjzlqQpjwmn2DpYfY41ewQ&usqp=CAU",
+            "stock":4 
+        },
+        {
+            "titulo":"Lavadora",
+             "precio":"$5000",
+              "texto":"Para lavar la ropa",
+                "img":"https://promart.vteximg.com.br/arquivos/ids/921541/134208.jpg?v=637558577416600000",
+                "stock":6 
+        },
+
+        {
+            "titulo":"Lavadora",
+             "precio":"$5000",
+              "texto":"Para lavar la ropa",
+                "img":"https://promart.vteximg.com.br/arquivos/ids/921541/134208.jpg?v=637558577416600000",
+                "stock":8
+        }
+    ]
+}
